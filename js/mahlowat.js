@@ -1,9 +1,24 @@
+import T_DE from '../lang/de_de.js';
+import T_FR from '../lang/fr_fr.js';
+
+const langs = {
+	"DE": {
+		ui: T_DE,
+		config: "data-de.json"
+	},
+	"FR": {
+		ui: T_FR,
+		config: "data-fr.json"
+	}
+}
+const initialLang = langs.DE
+
 var data = null;
 var answers = null;
 var currentThesis = 0;
 var timeout = null;
 var showSwypeInfo = true;
-var t = new T();
+var t = new T_DE();
 $(function () {
 	translate();
 	$('#btn-start').prop('disabled', true);
@@ -19,8 +34,18 @@ function translate() {
 	}
 }
 
+function doReinits(configFile) {
+	$.getJSON(`config/${configFile}`).done((jsondata) => {
+		data = jsondata;
+		initAnswers();
+		initResultDetails();
+		loadThesis();
+	})
+}
+
+
 function init() {
-	$.getJSON("config/data.json")
+	$.getJSON(`config/${initialLang.config}`)
 		.done(function (jsondata) {
 			data = jsondata;
 			currentThesis = 0;
@@ -34,6 +59,19 @@ function init() {
 		.fail(function () {
 			$('#error-msg').html('<div class="alert alert-danger" role="alert">' + t.error_loading_config_file + '</div>');
 		});
+}
+
+function switchLanguage(lang, event) {
+
+	// Highlight selected language button
+	$("#lang-button-group .btn-primary").removeClass("btn-primary")
+	event.target.classList.add("btn-primary")
+
+	// Do UI language translations
+	const langObject = langs[lang]
+	t = new langObject.ui();
+	doReinits(langObject.config)
+	translate()
 }
 
 function initOnclickCallbacks() {
@@ -51,6 +89,8 @@ function initOnclickCallbacks() {
 	$('#btn-mahlowat-skip-remaining-theses').off('click').click(function () { showResults(); });
 	$('#btn-results-show-start').off('click').click(function () { showStart(); });
 	$('#btn-results-show-qa').off('click').click(function () { showQA(); });
+	$('#btn-lang-de').off('click').click(function (event) { switchLanguage("DE", event) })
+	$('#btn-lang-fr').off('click').click(function (event) { switchLanguage("FR", event) })
 }
 
 function initHammer() {
@@ -413,7 +453,7 @@ function toggleThesisMore() {
 
 function initResultDetails() {
 	$('#result-detail').empty();
-	for (thesis_id in data.theses) {
+	for (let thesis_id in data.theses) {
 		let thesisNumber = parseInt(thesis_id) + 1;
 		let text = '<div class="card result-detail-card">\
 				<div class="card-header result-detail-header">\
@@ -426,7 +466,7 @@ function initResultDetails() {
 						<p class="card-text lead">'+ data.theses[thesis_id].l + '</p>\
 					</div>\
 					<ul class="list-group list-group-flush">';
-		for (list_id in data.lists) {
+		for (let list_id in data.lists) {
 			text += '<li class="list-group-item">\
 							'+ getSelectionMarker(data.lists[list_id].name, data.answers[list_id][thesis_id].selection) + '\
 							'+ statementOrDefault(data.answers[list_id][thesis_id].statement) + '</li>';
@@ -435,7 +475,7 @@ function initResultDetails() {
 				</div>\
 				<div class="card-footer result-detail-footer">\
 					<span class="badge badge-secondary" id="placeholder-your-choice-'+ thesis_id + '">PLACEHOLDER</span> | ';
-		for (list_id in data.lists) {
+		for (let list_id in data.lists) {
 			text += getSelectionMarker(data.lists[list_id].name_x, data.answers[list_id][thesis_id].selection);
 		}
 		text += '</div>\

@@ -122,3 +122,4 @@ function () {
   return T;
 }();
 
+export default T

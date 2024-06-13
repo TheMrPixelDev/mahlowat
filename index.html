@@ -18,6 +18,7 @@
             body {
                 margin-top: 1rem;
                 display: flex;
+                flex-direction: column;
                 align-items: center;
                 justify-content: center;
                 min-height: 100%;
@@ -124,6 +125,12 @@
     </head>
 
     <body>
+        <div class="container d-inline-flex align-items-end p-3">
+            <div class="btn-group ml-auto" id="lang-button-group" role="group" aria-label="language-selection">
+                <button id="btn-lang-de" type="button" class="btn btn-primary">🇩🇪 DE</button>
+                <button id="btn-lang-fr" type="button" class="btn">🇫🇷 FR</button>
+            </div>
+        </div>
         <div
             class="modal fade"
             id="QAModal"
@@ -316,10 +323,10 @@
         <script src="js/bootstrap.bundle.min.js"></script>
         <script src="js/hammer.min.js"></script>
         <!-- Select (uncomment) exactly one of the following languages-->
-        <!-- <script src="lang/de_de.js"></script> -->
+        <script type="module" src="lang/de_de.js"></script>
         <!-- <script src="lang/en_gb.js"></script> -->
-        <script src="lang/fr_fr.js"></script>
+        <script type="module" src="lang/fr_fr.js"></script>
         <!-- end languages-->
-        <script src="js/mahlowat.js"></script>
+        <script type="module" src="js/mahlowat.js"></script>
     </body>
 </html>
