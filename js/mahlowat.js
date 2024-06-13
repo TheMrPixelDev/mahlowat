@@ -1,6 +1,3 @@
-import T_DE from '../lang/de_de.js';
-import T_FR from '../lang/fr_fr.js';
-
 const langs = {
 	"DE": {
 		ui: T_DE,
@@ -112,7 +109,7 @@ function showQA() {
 function recreatePagination() {
 	$('#pagination').empty();
 	for (let i = 0; i < Object.keys(data.theses).length; i++) {
-		$('#pagination').append('<li class="page-item"><button class="page-link' + getPaginationClasses(i) + '" onclick="loadThesisNumber(' + i + ')">' + (i + 1) + '</button></li>')
+		$('#pagination').append(`<li class="page-item${i === currentThesis ? " active" : ""}"><button class="page-link` + getPaginationClasses(i) + '" onclick="loadThesisNumber(' + i + ')">' + (i + 1) + '</button></li>')
 	}
 }
 
@@ -309,6 +306,7 @@ function loadThesis() {
 
 	styleAnswerButtons();
 	updateProgressBar();
+	recreatePagination();
 }
 
 function nextThesisAfterSelection() {
