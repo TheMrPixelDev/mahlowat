@@ -17,6 +17,13 @@ var timeout = null;
 var showSwypeInfo = true;
 var t = new T_DE();
 $(function () {
+
+	fetch("options.json").then(res => res.json()).then(options => {
+		if (!options.released) {
+			window.location.replace("/unreleased")
+		}
+	})
+
 	translate();
 	$('#btn-start').prop('disabled', true);
 
