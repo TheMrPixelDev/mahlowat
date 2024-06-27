@@ -521,6 +521,7 @@ function getSelectionMarker(list, selection) {
 
 function showStart() {
 	init();
+	enableLanguageSwitching()
 	$("#mahlowat,#result").hide();
 	$("#start").show();
 }
@@ -529,9 +530,21 @@ function showMahlowatFirstThesis() {
 	currentThesis = 0;
 	showMahlowat();
 }
+
+function disableLanguageSwitching() {
+	$("#btn-lang-de").hide();
+	$("#btn-lang-fr").hide();
+}
+
+function enableLanguageSwitching() {
+	$("#btn-lang-de").show();
+	$("#btn-lang-fr").show();
+}
+
 function showMahlowat() {
 	loadThesis();
 	initResultDetails();
+	disableLanguageSwitching();
 	$("#start,#result").hide();
 	$("#mahlowat").fadeIn();
 	if (showSwypeInfo) {

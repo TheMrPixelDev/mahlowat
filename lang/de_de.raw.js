@@ -1,12 +1,12 @@
 class T {
   constructor() {
-    this.page_title = "Mahlowat";
+    this.page_title = "Élect-o-mate";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
-					<p>Lorem Ipsum.</p>\
+    this.qa_modal_body = '<h4>Wer steht hinter dem Élect-o-mate?</h4>\
+					<p>Veronique Coiffet, Julian Harrer</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Eine Arbeitsgruppe aus dem Französischekurs von Frau Veronique Coiffet am Sprachenzentraum der Universität Passau.</p>\
 \
 					<h4>Woher stammen die Positionen der Gruppen?</h4>\
 					<p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
@@ -16,7 +16,7 @@ class T {
 					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
 \
 					<h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Die Wahl der französischen Nationalversammlung</p>\
 \
 					<h4>Wie werden die Punkte berechnet?</h4>\
 					<p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
@@ -37,22 +37,22 @@ class T {
 					<h4>Ich habe einen inhaltlichen Fehler gefunden!</h4>\
 					<p>Gib uns gern Bescheid, wir sehen uns das an. Wer „wir“ sind, steht oben auf dieser Seite.</p>\
 \
-					<h4>Wer hat den Mahlowat programmiert?</h4>\
-					<p>Das steht\
-						<a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
+					<h4>Wer hat den Élect-o-mate programmiert?</h4>\
+					<p>Der Élect-o-mate basiert auf der freien Software \
+						<a href="https://github.com/hszemi/mahlowat">Mahlowat</a> und wurde von Julian Harrer weiter entwickelt bzw. angepasst.</p>\
 \
 					<h4>Ich habe einen Programmierfehler gefunden!</h4>\
 					<p>Oh nein! Wenn du den Fehler\
-						<a href="https://github.com/hszemi/mahlowat">meldest</a>, wird er vielleicht behoben.</p>';
+						<a href="https://github.com/TheMrPixelDev/mahlowat">meldest</a>, wird er vielleicht behoben.</p>';
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Der Mahlowat ist ein Wahlpositions&shy;vergleichswerkzeug.";
-    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur $WAHL\
+    this.start_subtitle = "Der Élect-o-mate ist ein Wahlpositions&shy;vergleichswerkzeug.";
+    this.start_explanatory_text = "<p>Der Élect-o-mate ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur Wahl der Nationalversammlung in Frankreich\
 						antreten.\
 					</p>\
 					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";
-    this.btn_start = "Mahlowat starten!";
+    this.btn_start = "Élect-o-mate starten!";
     this.btn_start_show_qa = "Fragen &amp; Antworten";
     this.btn_toggle_thesis_more_text = "Erläuterung";
     this.btn_important = "These doppelt gewichten";

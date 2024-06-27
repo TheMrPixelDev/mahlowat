@@ -12,9 +12,9 @@ function () {
   function T() {
     _classCallCheck(this, T);
 
-    this.page_title = "Mahlowat";
+    this.page_title = "Élect-o-mate";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
+    this.qa_modal_body = '<h4>Wer steht hinter dem Élect-o-mate?</h4>\
 					<p>Lorem Ipsum.</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
@@ -60,7 +60,7 @@ function () {
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
     this.start_subtitle = "Der Mahlowat ist ein Wahlpositions&shy;vergleichswerkzeug.";
-    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur $WAHL\
+    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur Wahl der Nationalversammlung in Frankreich\
 						antreten.\
 					</p>\
 					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";

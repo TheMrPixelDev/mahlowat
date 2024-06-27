@@ -1,103 +1,174 @@
 {
 	"theses": {
 		"0": {
-			"l": "These 1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
-			"s": "These 1",
-			"x": "Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam er"
+			"l": "Die Unterstützung der Ukraine sollte verstärkt werden.",
+			"s": "",
+			"x": ""
 		},
 		"1": {
-			"l": "These 2 m dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ",
-			"s": "These 2",
+			"l": "Frankreich sollte einen Waffenstillstand im Gazastreifen fordern.",
+			"s": "",
 			"x": ""
 		},
 		"2": {
-			"l": "These 3 ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lore",
-			"s": "These 3",
-			"x": "takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+			"l": "Die Ukraine sollte in das System der EU aufgenommen werden.",
+			"s": "",
+			"x": ""
 		},
 		"3": {
-			"l": "These 4 sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et ",
-			"s": "These 4",
-			"x": "tetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eo"
+			"l": "Frankreich sollte ein Ende der Waffenlieferungen an Israel einleiten.",
+			"s": "",
+			"x": ""
 		},
 		"4": {
-			"l": "These 5 elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et just",
-			"s": "These 5",
+			"l": "Frankreich sollte den israelischen Staat, aufgrund der Bombardierungen im Gazastreifen, sanktionieren.",
+			"s": "",
 			"x": ""
 		},
 		"5": {
-			"l": "These 6 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel i",
-			"s": "These 6",
+			"l": "Das \"ius soli\" (Geburtsortprinzip) sollte abgeschafft oder stark eingegrenzt werden.  Geburtsortprinzip: Jedes Kind, das auf dem Gebiet des Staates geboren wird, erhält automatisch dessen Staatsbürgerschaft, unabhängig davon welchem Staat die Eltern angehören.",
+			"s": "",
 			"x": ""
 		},
 		"6": {
-			"l": "These 7 tatum zzril delenit augue duis dolore te feugait nulla facilisi",
-			"s": "These 7",
+			"l": "Es ist notwendig, die Zahl der Familienzusammenführungen zu beschränken.",
+			"s": "",
 			"x": ""
 		},
 		"7": {
-			"l": "These 8 invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eo",
-			"s": "These 8",
-			"x": "ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit a"
+			"l": "Der Erwerb von Einreisevisen muss erleichtert werden.",
+			"s": "",
+			"x": ""
 		},
 		"8": {
-			"l": "These 9 imata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos",
-			"s": "These 9",
+			"l": "Ausländische Straftäter sollten abgeschoben werden.",
+			"s": "",
 			"x": ""
 		},
 		"9": {
-			"l": "These 10 ergren, no sea takimata sanctus est Lorem ipsum dolor",
-			"s": "These 10",
+			"l": "Es sollte eine Agentur für Land- und Seenotrettung eingerichtet werden.",
+			"s": "",
+			"x": ""
+		},
+		"10": {
+			"l": "Der allgemeine Sozialbeitrag (CSG) soll gesenkt werden. CSG = eine Sozialsteuer, die auf Erwerbseinkommen, Erwerbsersatzeinkommen (z.B. Altersrente, Arbeitslosengeld), Vermögenseinkommen und Anlageerträge erhoben wird.",
+			"s": "",
+			"x": ""
+		},
+		"11": {
+			"l": "Das Rentenalter soll auf (mindestens) 64 Jahre angehoben werden.",
+			"s": "",
+			"x": ""
+		},
+		"12": {
+			"l": "Die Energiekosten sollen gesenkt werden.",
+			"s": "",
+			"x": ""
+		},
+		"13": {
+			"l": "Die Politik soll sich für den nachhaltigen Wohnungsbau einsetzen.",
+			"s": "",
+			"x": ""
+		},
+		"14": {
+			"l": "Der Staat soll jungen Menschen bezahlbaren Wohnraum zur Verfügung stellen.",
+			"s": "",
+			"x": ""
+		},
+		"15": {
+			"l": "Der Staat muss mehr sozialen Wohnraum schaffen.",
+			"s": "",
+			"x": ""
+		},
+		"16": {
+			"l": "Das Verbot von Verbrennungsmotoren soll fortgesetzt werden.",
+			"s": "",
+			"x": ""
+		},
+		"17": {
+			"l": "Die emissionsarmen Umweltzonen in städtischen Gebieten, in denen nur Fahrzeuge mit entsprechender Luftqualitätsvignette zugelassen sind, sollen abgeschafft werden.",
+			"s": "",
+			"x": ""
+		},
+		"18": {
+			"l": "Der Bau und der Betrieb von Atomkraftwerken sollen fortgesetzt werden.",
+			"s": "",
+			"x": ""
+		},
+		"19": {
+			"l": "Es muss in den Bereich der Windenergie investiert werden.",
+			"s": "",
+			"x": ""
+		},
+		"20": {
+			"l": "Schuluniformen müssen wieder eingeführt werden.",
+			"s": "",
+			"x": ""
+		},
+		"21": {
+			"l": "Parcoursup muss abgeschafft werden. Parcoursup ist ein zentrales Portal zur Studienplatzvergabe für Studienanfänger. Es wird von vielen Familien und Abiturient:innen als sehr stressig empfunden",
+			"s": "",
+			"x": ""
+		},
+		"22": {
+			"l": "Die Inklusion von Schülern mit Behinderung muss unterstützt werden.",
+			"s": "",
+			"x": ""
+		},
+		"23": {
+			"l": "Il faut mettre fin au collège unique en poussant le \"Choc de Savoirs\"",
+			"s": "",
+			"x": ""
+		},
+		"24": {
+			"l": "Asylsuchende sollten ihren Antrag vor dem Überschreiten der EU-Außengrenze stellen und dort auf das Ergebnis warten müssen.",
+			"s": "",
 			"x": ""
 		}
 	},
 	"lists": {
 		"0": {
-			"name": "Liste X",
-			"name_x": "Liste X"
+			"name": "Nouveau Front Populaire",
+			"name_x": "NFP"
 		},
 		"1": {
-			"name": "Kugelschreibär",
-			"name_x": "STIFT"
+			"name": "Les Républicains",
+			"name_x": "LR"
 		},
 		"2": {
-			"name": "Liste Oben",
-			"name_x": "Liste Oben"
+			"name": "Ensemble",
+			"name_x": "ENS"
 		},
 		"3": {
-			"name": "The ACKERdemikerliste",
-			"name_x": "TACKER"
+			"name": "Rassemblement National",
+			"name_x": "RN"
 		},
 		"4": {
-			"name": "Vitamin B",
-			"name_x": "Vitamin B"
-		},
-		"5": {
-			"name": "Niemals nicht",
-			"name_x": "NEIN"
+			"name": "Reconquête",
+			"name_x": "REC"
 		}
 	},
 	"answers": {
 		"0": {
 			"0": {
 				"selection": "a",
-				"statement": "Juche!"
+				"statement": "https://www.francetvinfo.fr/elections/legislatives-2024-programme-circonscriptions-futur-premier-ministre-ce-que-contient-l-accord-du-nouveau-front-populaire_6603777.html"
 			},
 			"1": {
 				"selection": "a",
-				"statement": "Noe."
+				"statement": "https://www.francetvinfo.fr/elections/legislatives-2024-programme-circonscriptions-futur-premier-ministre-ce-que-contient-l-accord-du-nouveau-front-populaire_6603777.html"
 			},
 			"2": {
-				"selection": "c",
-				"statement": ""
+				"selection": "b",
+				"statement": "https://www.francetvinfo.fr/elections/legislatives-2024-programme-circonscriptions-futur-premier-ministre-ce-que-contient-l-accord-du-nouveau-front-populaire_6603777.html"
 			},
 			"3": {
-				"selection": "b",
-				"statement": ""
+				"selection": "a",
+				"statement": "https://www.francetvinfo.fr/elections/legislatives-2024-programme-circonscriptions-futur-premier-ministre-ce-que-contient-l-accord-du-nouveau-front-populaire_6603777.html"
 			},
 			"4": {
 				"selection": "a",
-				"statement": ""
+				"statement": "https://www.francetvinfo.fr/elections/legislatives-2024-programme-circonscriptions-futur-premier-ministre-ce-que-contient-l-accord-du-nouveau-front-populaire_6603777.html"
 			},
 			"5": {
 				"selection": "c",
@@ -108,58 +179,178 @@
 				"statement": ""
 			},
 			"7": {
-				"selection": "b",
-				"statement": ""
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			},
 			"8": {
-				"selection": "a",
-				"statement": ""
+				"selection": "c",
+				"statement": "https://fede32.parti-reconquete.fr/article/la-lutte-contre-l-immigration-illegale-est-largement-insuffisanteo"
 			},
 			"9": {
 				"selection": "a",
+				"statement": "https://www.lejdd.fr/politique/legislatives-les-15-mesures-phares-du-nouveau-front-populaire-146391"
+			},
+			"10": {
+				"selection": "c",
+				"statement": "Législatives 2024 : comment le Nouveau Front populaire entend financer son programme économique (francetvinfo.fr, 22.06.2024)"
+			},
+			"11": {
+				"selection": "c",
+				"statement": "Législatives 2024 : les retraites représentent un sujet explosif dans cette campagne (francetvinfo.fr, 24.06.2024)"
+			},
+			"12": {
+				"selection": "c",
+				"statement": "Législatives 2024 : que proposent les différents camps politiques sur l'énergie ? (capitole-energie.com, 21.06.2024)"
+			},
+			"13": {
+				"selection": "a",
+				"statement": "https://www.publicsenat.fr/actualites/politique/le-programme-des-100-premiers-jours-du-nouveau-front-populaire"
+			},
+			"14": {
+				"selection": "a",
 				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": "https://www.liberation.fr/politique/elections/interdiction-des-voitures-thermiques-quen-dit-la-classe-politique-20240605_FNCBCJNJSJDV5CJQAILQHDP24U/"
+			},
+			"17": {
+				"selection": "b",
+				"statement": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/Programme-nouveaufrontpopulaire.pdf, https://www.dna.fr/environnement/2021/10/14/la-zfe-de-la-division"
+			},
+			"18": {
+				"selection": "b",
+				"statement": "https://www.francetvinfo.fr/elections/legislatives-2024-programme-circonscriptions-futur-premier-ministre-ce-que-contient-l-accord-du-nouveau-front-populaire_6603777.html"
+			},
+			"19": {
+				"selection": "a",
+				"statement": "https://www.linfodurable.fr/politique/le-programme-ecolo-du-nouveau-front-populaire-45837"
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			}
 		},
 		"1": {
 			"0": {
-				"selection": "c",
-				"statement": "Moep"
+				"selection": "a",
+				"statement": ""
 			},
 			"1": {
 				"selection": "b",
-				"statement": "Yay"
+				"statement": ""
 			},
 			"2": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"3": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"4": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"5": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"6": {
 				"selection": "a",
-				"statement": ""
+				"statement": "https://republicains.fr/nos-propositions-pour-maitriser-limmigration-illegale-en-europe"
 			},
 			"7": {
 				"selection": "c",
-				"statement": ""
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			},
 			"8": {
+				"selection": "a",
+				"statement": "https://republicains.fr/nos-propositions-pour-maitriser-limmigration-illegale-en-europe/"
+			},
+			"9": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"10": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Législatives 2024 : que proposent les différents camps politiques sur l'énergie ? (capitole-energie.com, 21.06.2024)"
+			},
+			"13": {
+				"selection": "b",
+				"statement": "https://republicains.fr/programme2024/"
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
 				"selection": "c",
 				"statement": ""
 			},
-			"9": {
+			"17": {
+				"selection": "c",
+				"statement": "https://www.dna.fr/environnement/2021/10/14/la-zfe-de-la-division"
+			},
+			"18": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"19": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
 				"selection": "a",
 				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			}
 		},
 		"2": {
@@ -168,11 +359,11 @@
 				"statement": ""
 			},
 			"1": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"2": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"3": {
@@ -180,75 +371,195 @@
 				"statement": ""
 			},
 			"4": {
-				"selection": "d",
-				"statement": ""
+				"selection": "a",
+				"statement": "https://ensemble-mouvement.com/debats-palestine-israel/ "
 			},
 			"5": {
-				"selection": "c",
-				"statement": ""
+				"selection": "b",
+				"statement": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/Programme-nouveaufrontpopulaire.pdf"
 			},
 			"6": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"7": {
-				"selection": "a",
-				"statement": ""
+				"selection": "c",
+				"statement": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049040245"
 			},
 			"8": {
 				"selection": "a",
-				"statement": ""
+				"statement": "https://www.rfi.fr/fr/france/20240624-l%C3%A9gislatives-2024-que-proposent-les-partis-concernant-l-immigration-en-france)"
 			},
 			"9": {
+				"selection": "c",
+				"statement": "https://www.france24.com/fr/france/20240619-l%C3%A9gislatives-2024-ce-que-proposent-les-partis-sur-l-immigration-et-la-la%C3%AFcit%C3%A9"
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
 				"selection": "a",
 				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": "https://www.lemonde.fr/les-decodeurs/article/2024/06/06/europeennes-2024-comprendre-le-debat-sur-l-arret-de-la-voiture-a-moteur-thermique-en-2035_6237732_4355770.html"
+			},
+			"17": {
+				"selection": "c",
+				"statement": "https://mieuxrespirerenville.gouv.fr/"
+			},
+			"18": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": "https://www.vie-publique.fr/loi/287993-loi-immigration-integration-asile-du-26-janvier-2024"
 			}
 		},
 		"3": {
 			"0": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"1": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"2": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"3": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"4": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"5": {
-				"selection": "c",
-				"statement": ""
+				"selection": "a",
+				"statement": "https://www.midilibre.fr/2024/06/19/legislatives-2024-en-quoi-consiste-vraiment-le-droit-du-sol-dont-le-rassemblement-national-veut-en-restreindre-le-benefice-12027360.php#:~:text=De%2520quoi%2520s'agit%2520%253F,d'en%2520limiter%2520le%2520b%C3%A9n%C3%A9fice."
 			},
 			"6": {
 				"selection": "a",
-				"statement": ""
+				"statement": "https://rassemblementnational.fr/documents/202406-programme.pdf"
 			},
 			"7": {
 				"selection": "c",
-				"statement": ""
+				"statement": "https://rassemblementnational.fr/documents/202406-programme.pdf"
 			},
 			"8": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"9": {
 				"selection": "c",
+				"statement": "https://rassemblementnational.fr/legislatives-2024"
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Critique des mesures fiscales du programme du Rassemblement national - Fondation Jean-Jaurès (jean-jaures.org, 24.06.2024)"
+			},
+			"11": {
+				"selection": "c",
+				"statement": "Retraite : le RN promet un retour à l’âge légal à 62 ans… mais à quelle vitesse ? (capital.fr)"
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Législatives 2024 : que proposent les différents camps politiques sur l'énergie ? (capitole-energie.com, 21.06.2024)"
+			},
+			"13": {
+				"selection": "c",
 				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": "https://rassemblementnational.fr/22-mesures"
+			},
+			"15": {
+				"selection": "b",
+				"statement": "https://rassemblementnational.fr/22-mesures"
+			},
+			"16": {
+				"selection": "c",
+				"statement": "https://rassemblementnational.fr/petition/non-a-linterdiction-de-vente-des-vehicules-thermiques#:~:text=Sur%20proposition%20de%20la%20Commission,et%20ont%20r%C3%A9solument%20vot%C3%A9%20contre. "
+			},
+			"17": {
+				"selection": "a",
+				"statement": "https://rassemblementnational.fr/communiques/radars-zfe-les-automobilistes-ne-sont-pas-des-vaches-a-lait"
+			},
+			"18": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"19": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			}
 		},
 		"4": {
 			"0": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"1": {
@@ -268,66 +579,84 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"6": {
-				"selection": "c",
-				"statement": ""
+				"selection": "a",
+				"statement": "https://www.parti-reconquete.fr/programme"
 			},
 			"7": {
-				"selection": "a",
-				"statement": ""
+				"selection": "c",
+				"statement": "https://www.parti-reconquete.fr/programme"
 			},
 			"8": {
 				"selection": "a",
-				"statement": ""
+				"statement": "https://fede32.parti-reconquete.fr/article/la-lutte-contre-l-immigration-illegale-est-largement-insuffisanteo"
 			},
 			"9": {
-				"selection": "a",
-				"statement": ""
-			}
-		},
-		"5": {
-			"0": {
-				"selection": "a",
-				"statement": ""
-			},
-			"1": {
-				"selection": "a",
-				"statement": ""
-			},
-			"2": {
 				"selection": "c",
-				"statement": ""
+				"statement": "https://www.parti-reconquete.fr/programme"
 			},
-			"3": {
+			"10": {
+				"selection": "a",
+				"statement": "Législatives : pour Éric Zemmour le RN est « socialiste sur le plan économique » (Valeurs actuelles, 22.06.2024)"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Retraite : le RN promet un retour à l’âge légal à 62 ans… mais à quelle vitesse ? (capital.fr)"
+			},
+			"12": {
 				"selection": "b",
 				"statement": ""
 			},
-			"4": {
+			"13": {
+				"selection": "c",
+				"statement": "https://www.vinci-immobilier.com/actualites/comment-penser-lhabitat-de-demain-en-france"
+			},
+			"14": {
 				"selection": "c",
 				"statement": ""
 			},
-			"5": {
+			"15": {
 				"selection": "c",
 				"statement": ""
 			},
-			"6": {
+			"16": {
 				"selection": "c",
+				"statement": "https://www.lemonde.fr/les-decodeurs/article/2024/06/06/europeennes-2024-comprendre-le-debat-sur-l-arret-de-la-voiture-a-moteur-thermique-en-2035_6237732_4355770.html\n\nhttps://votezmarion.fr/ "
+			},
+			"17": {
+				"selection": "a",
+				"statement": "https://fede75.parti-reconquete.fr/article/non-aux-zfe-zone-a-faible-emission"
+			},
+			"18": {
+				"selection": "a",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"19": {
+				"selection": "c",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"20": {
+				"selection": "b",
 				"statement": ""
 			},
-			"7": {
-				"selection": "c",
+			"21": {
+				"selection": "b",
 				"statement": ""
 			},
-			"8": {
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
 				"selection": "a",
 				"statement": ""
 			},
-			"9": {
+			"24": {
 				"selection": "a",
-				"statement": ""
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			}
 		}
 	}
