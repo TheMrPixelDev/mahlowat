@@ -8,14 +8,14 @@ const langs = {
 		config: "data-fr.json"
 	}
 }
-const initialLang = langs.DE
+const initialLang = langs.FR;
 
 var data = null;
 var answers = null;
 var currentThesis = 0;
 var timeout = null;
 var showSwypeInfo = true;
-var t = new T_DE();
+var t = new T_FR();
 $(function () {
 
 	fetch("options.json").then(res => res.json()).then(options => {

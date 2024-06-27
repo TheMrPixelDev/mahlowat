@@ -12,9 +12,9 @@ function () {
   function T() {
     _classCallCheck(this, T);
 
-    this.page_title = "Mahlowat";
+    this.page_title = "élect-o-mate";
     this.qa_modal_title = "Questions-réponses";
-    this.qa_modal_body = '<h4>Qui a fait le Mahlowat?</h4>\
+    this.qa_modal_body = '<h4>Qui a fait le élect-o-mate?</h4>\
 					<p>Lorem Ipsum.</p>\
 \
 					<h4>Qui a deviné les théses?</h4>\
@@ -45,8 +45,8 @@ function () {
 					<h4>J\'ai trouvé une erreur dans le contenu!</h4>\
 					<p>Informez-nous et nous allons examiner cette erreur. Si vous ne savez pas qui c\'est «nous», regardez en haut sur cette page.</p>\
 \
-					<h4>Qui a programmé le Mahlowat?</h4>\
-					<p><a href="https://github.com/hszemi/mahlowat">Regardez ici</a>. Au fait, le Mahlowat est un logiciel libre!</p>\
+					<h4>Qui a programmé le élect-o-mate?</h4>\
+					<p><a href="https://github.com/hszemi/mahlowat">Regardez ici</a>. Au fait, le élect-o-mate est un logiciel libre!</p>\
 \
 					<h4>J\'ai trouvé une erreur de programmation!</h4>\
 					<p>Mon dieu! Si tu signales l\'erreur\
@@ -54,13 +54,13 @@ function () {
     this.btn_qa_modal_close = "Fermer";
     this.swype_info_message_text = "Balayez pour changer la thése";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Le Mahlowat est une application qui vous aide a décider pour qui voter.<br>\
+    this.start_subtitle = "Le élect-o-mate est une application qui vous aide a décider pour qui voter.<br>\
 		Pourtant, c'est pas votre mêre, alors faites ce que vous voulez.";
-    this.start_explanatory_text = "<p>Le Mahlowat vous permet de comparer ton opinion sur des théses selectionnées avec les \
+    this.start_explanatory_text = "<p>Le élect-o-mate vous permet de comparer ton opinion sur des théses selectionnées avec les \
 		opinions des goupes qui participent à l'élection.\
 					</p>\
 					<p>Les groupes sont responsables pour leurs réponses.</p>";
-    this.btn_start = "Demarrer le Mahlowat!";
+    this.btn_start = "Demarrer le élect-o-mate!";
     this.btn_start_show_qa = "Questions-réponses";
     this.btn_toggle_thesis_more_text = "Explication";
     this.btn_important = "Doubler les points";

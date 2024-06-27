@@ -1,8 +1,8 @@
 class T {
   constructor() {
-    this.page_title = "Mahlowat";
+    this.page_title = "élect-o-mate";
     this.qa_modal_title = "Questions-réponses";
-    this.qa_modal_body = '<h4>Qui a fait le Mahlowat?</h4>\
+    this.qa_modal_body = '<h4>Qui a fait le élect-o-mate?</h4>\
 					<p>Lorem Ipsum.</p>\
 \
 					<h4>Qui a deviné les théses?</h4>\
@@ -34,7 +34,7 @@ class T {
 					<p>Informez-nous et nous allons examiner cette erreur. Si vous ne savez pas qui c\'est «nous», regardez en haut sur cette page.</p>\
 \
 					<h4>Qui a programmé le Mahlowat?</h4>\
-					<p><a href="https://github.com/hszemi/mahlowat">Regardez ici</a>. Au fait, le Mahlowat est un logiciel libre!</p>\
+					<p><a href="https://github.com/hszemi/mahlowat">Regardez ici</a>. Au fait, le élect-o-mate est un logiciel libre!</p>\
 \
 					<h4>J\'ai trouvé une erreur de programmation!</h4>\
 					<p>Mon dieu! Si tu signales l\'erreur\
@@ -48,7 +48,7 @@ class T {
 		opinions des goupes qui participent à l'élection.\
 					</p>\
 					<p>Les groupes sont responsables pour leurs réponses.</p>";
-    this.btn_start = "Demarrer le Mahlowat!";
+    this.btn_start = "Demarrer le élect-o-mate!";
     this.btn_start_show_qa = "Questions-réponses";
     this.btn_toggle_thesis_more_text = "Explication";
     this.btn_important = "Doubler les points";
