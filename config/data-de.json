@@ -116,12 +116,27 @@
 			"x": ""
 		},
 		"23": {
-			"l": "Il faut mettre fin au collège unique en poussant le \"Choc de Savoirs\"",
+			"l": "Die einheitliche Sekundarstufe I, in der bis zur 9. Klasse alle Schüler:innen zusammen unterrichtet werden, muss abgeschafft werden, indem die Reform \"Choc des Savoirs\" durchgesetzt wird. (Diese will in der Sekundarstufe 1 unterschiedliche Niveaustufen einführen und wird dafür kritisiert, den Inklusionsgedanken des collège unique zu entwerten.)",
 			"s": "",
 			"x": ""
 		},
 		"24": {
 			"l": "Asylsuchende sollten ihren Antrag vor dem Überschreiten der EU-Außengrenze stellen und dort auf das Ergebnis warten müssen.",
+			"s": "",
+			"x": ""
+		},
+		"25": {
+			"l": "Frankreich soll das von der EU gesetzte Ziel der Klimaneutralität aufgeben.",
+			"s": "",
+			"x": ""
+		},
+		"26": {
+			"l": "Frankreich sollte an seinen Grenzen wieder Grenzkontrollen einführen.",
+			"s": "",
+			"x": ""
+		},
+		"27": {
+			"l": "Frankreich sollte weiterhin gemeinsame europäische Rüstungsprojekte unterstützen.",
 			"s": "",
 			"x": ""
 		}
@@ -248,6 +263,18 @@
 			},
 			"24": {
 				"selection": "c",
+				"statement": ""
+			},
+			"25": {
+				"selection": "b",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"26": {
+				"selection": "b",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"27": {
+				"selection": "b",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			}
 		},
@@ -351,6 +378,18 @@
 			"24": {
 				"selection": "a",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
 			}
 		},
 		"2": {
@@ -453,6 +492,18 @@
 			"24": {
 				"selection": "c",
 				"statement": "https://www.vie-publique.fr/loi/287993-loi-immigration-integration-asile-du-26-janvier-2024"
+			},
+			"25": {
+				"selection": "c",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
 			}
 		},
 		"3": {
@@ -555,6 +606,18 @@
 			"24": {
 				"selection": "a",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
 			}
 		},
 		"4": {
@@ -657,6 +720,18 @@
 			"24": {
 				"selection": "a",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
 			}
 		}
 	}

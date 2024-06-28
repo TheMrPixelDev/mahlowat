@@ -124,6 +124,21 @@
 			"l": "Les demandeurs d'asile doivent déposer leur demande avant de franchir la frontière extérieure de l'UE et attendre le résultat à cet endroit.",
 			"s": "",
 			"x": ""
+		},
+		"25": {
+			"l": "La France doit abandonner son objectif de neutralité climatique fixé par l'UE.",
+			"s": "",
+			"x": ""
+		},
+		"26": {
+			"l": "Il faut réintroduire les contrôles douaniers aux frontières de la France.",
+			"s": "",
+			"x": ""
+		},
+		"27": {
+			"l": "La France doit soutenir les projets d'armement européens communs.",
+			"s": "",
+			"x": ""
 		}
 	},
 	"lists": {
@@ -249,6 +264,18 @@
 			"24": {
 				"selection": "c",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "b",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"26": {
+				"selection": "b",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"27": {
+				"selection": "b",
+				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
 			}
 		},
 		"1": {
@@ -351,6 +378,18 @@
 			"24": {
 				"selection": "a",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
 			}
 		},
 		"2": {
@@ -453,6 +492,18 @@
 			"24": {
 				"selection": "c",
 				"statement": "https://www.vie-publique.fr/loi/287993-loi-immigration-integration-asile-du-26-janvier-2024"
+			},
+			"25": {
+				"selection": "c",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
 			}
 		},
 		"3": {
@@ -555,6 +606,18 @@
 			"24": {
 				"selection": "a",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
 			}
 		},
 		"4": {
@@ -657,6 +720,18 @@
 			"24": {
 				"selection": "a",
 				"statement": "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
 			}
 		}
 	}
